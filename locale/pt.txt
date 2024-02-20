@@ -1,0 +1,30 @@
+#: locale=pt
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_C90F49ED_C76A_4AA6_41E4_0D78F9304275.text = CLIQUE E VEJA  GIRO EXTERNO 
+
+## Media
+
+### Image
+imlevel_D5B3DD76_C77A_4BA2_41BC_CB6CB8E0D890.url = media/panorama_CB4E5C84_C767_C966_41D7_78D9AB910258_HS_5qzk57zk_pt.png
+
+### Title
+video_C8CDD3DC_C76A_5EE7_41B8_0B39909BD9A5.label = Design sem nome
+panorama_CB4E5C84_C767_C966_41D7_78D9AB910258.label = IMG_20221009_104729_00_001(1)
+album_D28EEA2F_C77B_C9A1_41C3_C0EB983EFD2E_0.label = WhatsApp Image 2024-02-20 at 11.14.18
+album_D28EEA2F_C77B_C9A1_41C3_C0EB983EFD2E.label = Álbum de Fotos WhatsApp Image 2024-02-20 at 11.14.18
+
+### Video
+videolevel_D3794C21_C766_495E_41DC_9C5D536AC2CB.posterURL = media/video_C8CDD3DC_C76A_5EE7_41B8_0B39909BD9A5_poster_pt.jpg
+videolevel_D3057898_C76A_496E_41DE_AD47A451D92D.posterURL = media/video_C8CDD3DC_C76A_5EE7_41B8_0B39909BD9A5_poster_pt.jpg
+videolevel_D3794C21_C766_495E_41DC_9C5D536AC2CB.url = media/video_C8CDD3DC_C76A_5EE7_41B8_0B39909BD9A5_pt.m3u8
+videolevel_D3057898_C76A_496E_41DE_AD47A451D92D.url = media/video_C8CDD3DC_C76A_5EE7_41B8_0B39909BD9A5_pt.mp4
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 5
